@@ -1,0 +1,72 @@
+body {
+	color: white;
+	font-size: 30px;
+}
+.header {
+	background:#3d3c66;
+	height: 108px;
+	margin-bottom: 5px;
+}
+.leftbar{
+	background:#A24A2D;
+	min-height: 300px;
+	width:20%;
+	float: left;
+	height: 900px;
+}
+.content {
+	
+	background:#3d3c00;
+	height: 900px;
+	width: 60%;
+	float:left;
+}
+.sidebar {
+	background:#3d3c33;
+	min-height: 300px;
+	width: 20%;
+	height: 900px;
+	float: left;
+}
+.hideform1 {
+	visibility: hidden;
+}
+.err {
+	font-size: 25px;
+	color white;
+}
+.hide {
+	visibility: hidden;
+}
+table {
+	margin-top: 60px;
+	border:5px solid white;
+}
+.sort {
+	margin:20px 0px 0px 20px;
+	font-size: 20px;
+}
+.sort span {
+	color:orange;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.neto {
+	width: 290px;
+	padding: 24px 24px 0;
+	margin: 200px auto 0;
+}
+	
+.adminforma {
+ 	width: 350px;
+}
+.addauto {
+	margin-top: 30px;
+}
+
+.zakazat {
+padding-left: 200px;
+}
+.filtr {
+	font-size: 25px;
+}
